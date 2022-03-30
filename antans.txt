@@ -1,0 +1,5 @@
+1 antans.txt 1 1 1 1 1 1 1 1
+1 antans.txt 1 1 1 1 1 1 1 1
+0 antans.txt 1 1 1 1 1 1 1 1
+1 antans.txt 1 0 1 0 1 0 1 0
+1 antans.txt -1 0 -1 0 -1 0 -1 0
